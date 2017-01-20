@@ -21,7 +21,7 @@ PROFIT!
 2. Pick [available] brewery(ies) to scrape and collection beer data about
 3. Follow pattern of parsing each beer into `Beer` object found in `lib/beer.py`
 4. Follow pattern of returning list of said beers from `get_beers()` function as seen in `lib/brewery/arbor.py`
-5. Unit tests optional (don't shoot me!)
+5. Unit tests not optional (don't shoot me!), no matter how cumbersome it is to test
 6. Create pull request
 
 ### Breweries implemented so far:
