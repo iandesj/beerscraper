@@ -1,5 +1,5 @@
 # beerscraper
-Compendium of scripts to scrape and parse beer lists from brewery websites. A collaborative effort.
+Compendium of scripts to scrape and parse beer lists from Michigan-based brewery websites. A collaborative effort. Edit
 
 ```bash
 pip install -r requirements.txt
@@ -18,7 +18,7 @@ PROFIT!
 
 ## Contribution Guide
 1. Fork
-2. Pick [available] brewery(ies) to scrape and collection beer data about
+2. Pick [available] brewery(ies) to scrape and collection Michigan beer data about
 3. Follow pattern of parsing each beer into `Beer` object found in `lib/beer.py`
 4. Follow pattern of returning list of said beers from `get_beers()` function as seen in `lib/brewery/arbor.py`
 5. Unit tests not optional (don't shoot me!), no matter how cumbersome it is to test
